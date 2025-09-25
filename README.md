@@ -13,13 +13,13 @@
 </p>
 
 <p align="center" style="font-size:12px">
-  <a href="https://sherlonalmeida.github.io/cyclopean-stereo/">[Project Page]</a>
-</p>
-
-<p align="center" style="font-size:12px">
   ¹ Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) <br>
   ² Courant Institute of Mathematical Sciences, New York University (NYU) <br>
   ³ Instituto de Matemática Pura e Aplicada (IMPA)
+</p>
+
+<p align="center" style="font-size:12px">
+  <a href="https://sherlonalmeida.github.io/cyclopean-stereo/">[Project Page]</a>
 </p>
 
 **Abstract**
