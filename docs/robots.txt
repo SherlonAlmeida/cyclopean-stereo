@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SherlonAlmeida.github.io/cyclopean-stereo/sitemap.xml
