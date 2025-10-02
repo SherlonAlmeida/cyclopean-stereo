@@ -20,6 +20,7 @@
 
 <p align="center" style="font-size:12px">
   <a href="https://sherlonalmeida.github.io/cyclopean-stereo/">[Project Page]</a>
+  <a href="https://github.com/SherlonAlmeida/cyclopean-stereo/blob/master/demo/CyclopeanStereo-Demo.ipynb">[Demo]</a>
 </p>
 
 **Abstract**
